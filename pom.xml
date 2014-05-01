@@ -13,7 +13,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-  
+
     <build>
         <defaultGoal>clean install</defaultGoal>
         <finalName>NametagEdit</finalName>
@@ -45,8 +45,8 @@
             <groupId>org.bukkit</groupId>
             <artifactId>bukkit</artifactId>
             <version>LATEST</version>
-		</dependency>
-		<dependency>
+        </dependency>
+        <dependency>
             <groupId>ru.tekode</groupId>
             <artifactId>PermissionsEX</artifactId>
             <version>1.21</version>
